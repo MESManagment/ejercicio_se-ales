@@ -1,6 +1,6 @@
-extends Node2D
+extends TextureButton
 
-func _on_button_button_down():
+func _on_button_down():
 	generate_block()
 
 func generate_block():
