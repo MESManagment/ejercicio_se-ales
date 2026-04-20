@@ -7,3 +7,5 @@ res://scenes/Blocks/Red/BlockRed.tscn
 res://scenes/Blocks/Red/block_red.gd
 res://scenes/Blocks/Violet/BlockViolet.tscn
 res://scenes/Blocks/Violet/block_violet.gd
+res://scenes/Buttons/Reset/reset.gd
+res://scenes/Buttons/Reset/Reset.tscn
